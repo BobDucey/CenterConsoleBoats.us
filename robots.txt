@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://centerconsoleboats.us/sitemap.xml
+Sitemap: https://www.centerconsoleboats.us/sitemap.xml
